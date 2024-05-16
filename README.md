@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning
-  - Software Engineering
-  - Software Architecture
-  - Java ?
+- 🌱
+  - Software Architecture & Engineering 
+  - Java
 <!--
 **joaofalonso/joaofalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

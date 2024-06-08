@@ -1,7 +1,12 @@
 ### Hi there 👋
+
+I'm João Francisco Alonso.
+
 - 🌱
-  - Software Architecture & Engineering 
-  - Java
+  - System Desgin
+  - Software Engineering 
+  - Java\Python\
+    
 <!--
 **joaofalonso/joaofalonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
